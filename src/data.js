@@ -721,9 +721,6 @@ Provided that an application under this sub-section shall be accompanied-
 (ii) in a case where no such certificate has been obtained, by-
 (a) the receipt obtained under sub-section (2) of section 48; or
 
-
-
-
 1. Subs. by Act 54 of 1994, s. 12, for "with a body" (w.e.f. 14-11-1994).
 2. Ins. by s. 12, ibid. (w.e.f. 14-11-1994).
 
@@ -2156,36 +2153,6 @@ authority under this Act, the appeal or the application for revision shall not o
    (4) The mention of particular matters in this section shall not be held to prejudice or affect the general application of section 6 of the General Clauses Act, 1897 (10 of 1897), with regard to the effect of repeals.
       1[217A. Renewal of permits, driving licences and registration granted under the Motor Vehicles Act, 1939.-Notwithstanding the repeal by sub-section (1) of section 217 of the enactments referred to in that sub-section, any certificate of fitness or registration or licence or permit issued or granted under the said enactments may be renewed under this Act.]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 1. Ins. by Act 27 of 2000, s. 5 (w.e.f. 11-8-2000).
 
 1[THE FIRST SCHEDULE]
@@ -2203,273 +2170,54 @@ Notes-(1) The figure 20 is given merely as an example. The actual figures will b
 
 1. The Schedule renumbered as the First Schedule thereofby Act 54 of 1994, s. 63 (w.e.f. 14-11-1994).
 
-
-
-
-
-
 Note.-Sign NO.5 as here set forth may be amplified by instructions inscribed upon a definition plate placed below it as in the general arrangement set forth in sign No. 1 of this Part. Upon the definition plate may be set forth the times during which parking is prohibited. In like manner an arrow-head inscribed on the definition plate will indicate that parking is prohibited on that part of the street or road lying to the side of the sign to which the arrow-head points.
-
-
-
 
 Part B.-Cautionary Signs
      The signs of this Part shall be used in conjunction with a red triangular plate, the centre of which shall be either bollow or painted white, in the manner indicated in the general design reproduced below.
 
-
-
-
-
-
-
-
 Part C.-Informatory Signs
-
-
-
-
 
 1[THE SECOND SCHEDULE
 (See Section 163 A)
 SCHEDULE FOR COMPENSATION FOR THIRD PART FATAL ACCIDENT/INJURY CASES CLAIMS
 
-1. Fatal Accidents:
+Maximum speed per hour in kilometres on roads in India
 
-Annual Income
-Rs.	Rs.	Rs.	Rs.
-Rs.	Rs.
-Rs.
-Rs.
-Rs.
-Rs.
-Rs.
-Rs.
-Rs.
+1. Motor vehicles used for carriage of passengers (M1 category vehicles)
+   - Expressway: 120 km/h
+   - 4-lane divided road: 100 km/h
+   - Road within Municipal Limits: 70 km/h
+   - Other Roads: 70 km/h
 
-3000 4200	5400	6600
-7800	9000
-10200
-11400
-12000
-18000
-24000
-36000
-40000
-AGE OF VICTIM	MULTIPLIER	RUPEES IN THOUSANDS
+2. Motor vehicles used for carriage of passengers (M2 and M3 category vehicles)
+   - Expressway: 100 km/h
+   - 4-lane divided road: 90 km/h
+   - Road within Municipal Limits: 60 km/h
+   - Other Roads: 60 km/h
 
-compensation in case of death
+3. Vehicles used for carriage of goods (All N category vehicles)
+   - Expressway: 80 km/h
+   - 4-lane divided road: 80 km/h
+   - Road within Municipal Limits: 60 km/h
+   - Other Roads: 60 km/h
 
+4. Motor Cycles
+   - Expressway: 80 km/h (*If permitted)
+   - 4-lane divided road: Not Applicable
+   - Road within Municipal Limits: 60 km/h
+   - Other Roads: 60 km/h
 
-Rs.
-Rs.
-Rs.
-Rs.
-Rs.
-Rs.
-Rs.
-Rs.
-Rs.
-Rs.
-Rs.
-Rs.
-Rs.
-Up to 15 yrs.
-.....15
-60
-84
-108
-132
-156
-180
-204
-228
-240
-360
-480
-720
-800
-Above 15 yrs. but not exdg. 20 yrs.
-.....16
-57
-79.8
-102
-125.4
-148.2
-171
-193.8
-216.6
-228
-342
-456
-684
-760
-Above 20 yrs. but not exdg. 25 yrs.
-....17
-54
-75.6
-97.2
-118.8
-140.4
-162
-183.6
-205.2
-216
-324
-432
-648
-720
-Above 25 yrs. but not exdg. 30 yrs.
-.....18
-51
-71.4
-91.8
-112.2
-132.6
-153
-173.4
-193.8
-204
-306
-408
-612
-680
-Above 30 yrs. but not exdg. 35 yrs.
-.....17
-50
-67.2
-86.4
-105.6
-124.8
-144
-163.2
-192.4
-192
-288
-384
-576
-640
-Above 35 yrs. but not exdg. 40 yrs.
-.....16
-50
-63
-81
-99
-117
-135
-153
-171
-180
-270
-360
-540
-600
-Above 40 yrs. but not exdg. 45 yrs.
-.....15
-50
-58.8
-75.6
-92.4
-109.2
-126
-142.8
-159.6
-168
-252
-336
-504
-560
+5. Quadricycle
+   - Expressway: Not Applicable
+   - 4-lane divided road: Not Applicable
+   - Road within Municipal Limits: 50 km/h
+   - Other Roads: 50 km/h
 
-Above 45 yrs. but not exdg. 50 yrs.
-
-.....13
-
-50
-
-50.4
-
-64.8
-
-79.2
-
-93.6
-
-108
-
-122.4
-
-136.8
-
-144
-
-216
-
-286
-
-432
-
-480
-Above 50 yrs. but not exdg. 55 yrs.
-.....11
-50
-50
-54
-66
-78
-90
-102
-114
-120
-180
-240
-360
-400
-Above 55 yrs. but not exdg. 60 yrs.
-.	8
-50
-50
-50
-52.8
-62.4
-72
-81.6
-91.2
-96
-114
-192
-286
-320
-Above 60 yrs. but not exdg. 65 yrs.
-.	5
-50
-50
-50
-50
-50
-54
-61.2
-68.4
-72
-108
-144
-216
-240
-Above 65 yrs.
-.	5
-50
-50
-50
-50
-50
-50
-51
-57
-60
-90
-120
-180
-200
-
-
+6. Three-wheeled vehicles
+   - Expressway: Not Applicable
+   - 4-lane divided road: Not Applicable
+   - Road within Municipal Limits: 50 km/h
+   - Other Roads: 50 km/h
 
 NOTE: The amount of compensation so arrived at in the case of fatal accident claims shall be reduced by 1 /3rd in consideration of the expenses which the victim would have incurred towards maintaining himself had he been alive.
 2. Amount of compensation shall not be less than Rs. 50,000.
@@ -2507,4 +2255,45 @@ earning/surviving spouse.
 In case of other injuries only "general damage" as applicable.]
 
 give output without any bold text involved
+
+THE SECOND SCHEDULE (See Section 163 A)
+SCHEDULE FOR COMPENSATION FOR THIRD PARTY FATAL ACCIDENT/INJURY CASES CLAIMS
+
+1. Fatal Accidents:
+
+Annual Income (in Rs.): 
+3000, 4200, 5400, 6600, 7800, 9000, 10200, 11400, 12000, 18000, 24000, 36000, 40000
+
+Compensation in case of death (in Rupees Thousands):
+
+Age of Victim | Multiplier | Compensation
+-----------------------------------------------------------
+Up to 15 yrs. | 15 | 60, 84, 108, 132, 156, 180, 204, 228, 240, 360, 480, 720, 800
+Above 15 yrs. but not exceeding 20 yrs. | 16 | 57, 79.8, 102, 125.4, 148.2, 171, 193.8, 216.6, 228, 342, 456, 684, 760
+Above 20 yrs. but not exceeding 25 yrs. | 17 | 54, 75.6, 97.2, 118.8, 140.4, 162, 183.6, 205.2, 216, 324, 432, 648, 720
+Above 25 yrs. but not exceeding 30 yrs. | 18 | 51, 71.4, 91.8, 112.2, 132.6, 153, 173.4, 193.8, 204, 306, 408, 612, 680
+Above 30 yrs. but not exceeding 35 yrs. | 17 | 50, 63, 81, 99, 117, 135, 153, 171, 180, 270, 360, 540, 600
+Above 35 yrs. but not exceeding 40 yrs. | 16 | 50, 63, 81, 99, 117, 135, 153, 171, 180, 270, 360, 540, 600
+Above 40 yrs. but not exceeding 45 yrs. | 15 | 50, 58.8, 76.5, 94.2, 112.8, 131.4, 149.8, 168.3, 180, 252, 336, 504, 560
+Above 45 yrs. but not exceeding 50 yrs. | 13 | 50, 50.4, 64.8, 79.2, 93.6, 108, 122.4, 136.8, 144, 216, 288, 432, 480
+Above 50 yrs. but not exceeding 55 yrs. | 11 | 50, 50.4, 64.8, 79.2, 93.6, 108, 122.4, 136.8, 144, 180, 240, 360, 400
+Above 55 yrs. but not exceeding 60 yrs. | 8 | 50, 50, 62.8, 74.2, 81.6, 91.2, 96, 114, 120, 144, 192, 288, 320
+Above 60 yrs. but not exceeding 65 yrs. | 5 | 50, 50, 50, 50, 50, 54, 61.2, 72, 108, 144, 216, 240
+Above 65 yrs. | 5 | 50, 50, 50, 50, 50, 51, 57, 60, 90, 120, 180, 200
+
+NOTE: The amount of compensation in case of fatal accident claims shall be reduced by 1/3rd for expenses the victim would have incurred for maintaining himself.
+
+2. Amount of compensation shall not be less than Rs. 50,000.
+
+3. General Damages (in case of death):
+   - Funeral expenses: Rs. 2,000
+   - Loss of Consortium (spouse beneficiary): Rs. 5,000
+   - Loss of Estate: Rs. 2,500
+   - Medical Expenses (with bills/vouchers, max limit): Rs. 15,000
+
+4. General Damages in case of Injuries and Disabilities:
+   (i) Pain and Sufferings: Rs. 5,000
+   (ii) Non-grievous injuries: Rs. 1,000
+
 `;
+
