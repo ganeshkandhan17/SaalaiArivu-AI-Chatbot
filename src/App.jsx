@@ -28,7 +28,7 @@ const App = () => {
     };
 
     try {
-      const response = await fetch(import.meta.env.GEMINI_API_URL, requestOptions);
+      const response = await fetch(import.meta.env.VITE_API_URL, requestOptions);
       const data = await response.json();
       if (!response.ok) throw new Error(data?.error.message || "Something went wrong!");
       const apiResponseText = data.candidates[0].content.parts[0].text.replace(/\*\*(.*?)\*\*/g, "$1").trim();
